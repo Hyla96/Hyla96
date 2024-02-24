@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Kapno.io](https://kapno.io/)
+- 🌱 I’m currently learning Go and React
+- 💬 Ask me about Flutter
+- 📫 How to reach me: gab.costache@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I suffer from "I never finish any damn project" syndrome
+
 <!--
 **Hyla96/Hyla96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
