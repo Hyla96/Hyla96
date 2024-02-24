@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Software Engineer [@TheMobilityHouse](https://www.mobilityhouse.com/) by day, abandoning unfinished projects by night.
+
 - 🔭 I’m currently working on [Kapno.io](https://kapno.io/)
 - 🌱 I’m currently learning Go and React
 - 💬 Ask me about Flutter
