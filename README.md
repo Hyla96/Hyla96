@@ -1,25 +1,10 @@
 ### Hi there 👋
-
+I blow up terminals (The right ones).
 Software Engineer [@TheMobilityHouse](https://www.mobilityhouse.com/) by day, abandoning unfinished projects by night.
 
-- 🔭 I’m currently working on [Kapno.io](https://kapno.io/)
 - 🌱 I’m currently [learning Go and Rust](https://exercism.org/profiles/Hyla96) 
 - 💬 Ask me about Flutter
 - 📫 How to reach me: cn.gabri3l@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I suffer from "I never finish any damn project" syndrome
-
-<!--
-**Hyla96/Hyla96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I make a goddman good lasagna
+  
